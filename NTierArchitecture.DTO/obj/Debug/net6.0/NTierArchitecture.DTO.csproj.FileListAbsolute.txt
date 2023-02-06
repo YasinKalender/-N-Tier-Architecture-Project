@@ -1,0 +1,12 @@
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\bin\Debug\net6.0\NTierArchitecture.DTO.deps.json
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\bin\Debug\net6.0\NTierArchitecture.DTO.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\bin\Debug\net6.0\NTierArchitecture.DTO.pdb
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.csproj.AssemblyReference.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.AssemblyInfoInputs.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.AssemblyInfo.cs
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.csproj.CoreCompileInputs.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\refint\NTierArchitecture.DTO.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\NTierArchitecture.DTO.pdb
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DTO\obj\Debug\net6.0\ref\NTierArchitecture.DTO.dll

@@ -1,0 +1,44 @@
+﻿@model List<ProductCategoryWithDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Product List</h1>
+<hr />
+
+@Html.ActionLink("Product Add","ProductAdd","Products",null,new{@class="btn btn-primary"} )
+
+<table class="table table-sm">
+
+    <thead>
+        <tr>
+            <th>Name</th>
+            <td>Price</td>
+            <td>Stock</td>
+            <td>Category Name</td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Stock</td>
+                <td>@item.CategoryName</td>
+                <td>@Html.ActionLink("Product Update","ProductUpdate","Products",new {Id=item.Id},new {@class="btn btn-secondary"} )</td>
+                <td><a asp-action="ProductRemove" asp-controller="Products" asp-route-Id="@item.Id" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+
+
+    </tbody>
+
+</table>
+

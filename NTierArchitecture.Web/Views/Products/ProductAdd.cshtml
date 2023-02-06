@@ -1,0 +1,52 @@
+﻿@using NTierArchitecture.Entites.ORM.Concrete
+
+@model ProductAddDto
+
+@{
+    ViewData["Title"] = "ProductAdd";
+}
+
+<h1>ProductAdd</h1>
+
+@using (Html.BeginForm("ProductAdd", "Products", FormMethod.Post))
+{
+
+    <div class="form-group">
+        <label for="productName">Name</label>
+        <input type="text" class="form-control" name="Name">
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="productStock">Stock</label>
+        <input type="number" class="form-control" name="Stock">
+    </div>
+
+    <div class="form-group">
+        <label for="productPrice">Price</label>
+        <input type="number" class="form-control" name="Price">
+        <span asp-validation-for="Price"></span>
+    </div>
+    <div class="form-group">
+
+        @*    <select asp-for="CategoryId" asp-items="@ViewBag.Category" class="form-control">
+
+    </select>*@
+        <select asp-for="CategoryId">
+
+            @foreach (var item in (SelectList)ViewBag.Category)
+            {
+
+
+                <option value="@item.Value">@item.Text</option>
+
+            }
+
+        </select>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+}

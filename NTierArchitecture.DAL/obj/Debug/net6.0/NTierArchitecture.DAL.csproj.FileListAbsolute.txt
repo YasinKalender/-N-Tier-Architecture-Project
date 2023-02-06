@@ -1,0 +1,17 @@
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\bin\Debug\net6.0\NTierArchitecture.DAL.deps.json
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\bin\Debug\net6.0\NTierArchitecture.DAL.runtimeconfig.json
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\bin\Debug\net6.0\NTierArchitecture.DAL.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\bin\Debug\net6.0\NTierArchitecture.DAL.pdb
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\bin\Debug\net6.0\NTierArchitecture.Entities.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\bin\Debug\net6.0\NTierArchitecture.Entities.pdb
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.csproj.AssemblyReference.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.AssemblyInfoInputs.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.AssemblyInfo.cs
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.csproj.CopyComplete
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\refint\NTierArchitecture.DAL.dll
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.pdb
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\NTierArchitecture.DAL.genruntimeconfig.cache
+C:\Users\yasin.kalender\Desktop\NTierArchitecture\NTierArchitecture.DAL\obj\Debug\net6.0\ref\NTierArchitecture.DAL.dll
